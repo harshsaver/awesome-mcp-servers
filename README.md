@@ -215,6 +215,7 @@ Access and explore art collections, cultural heritage, and museum databases. Ena
 - [mikechao/metmuseum-mcp](https://github.com/mikechao/metmuseum-mcp) 📇 ☁️ - Metropolitan Museum of Art Collection API integration to search and display artworks in the collection.
 - [mikan-atomoki/text-to-model](https://github.com/mikan-atomoki/text-to-model) [![text-to-model MCP server](https://glama.ai/mcp/servers/mikan-atomoki/text-to-model/badges/score.svg)](https://glama.ai/mcp/servers/mikan-atomoki/text-to-model) 🐍 🏠 🪟 🍎 - Turn natural language into 3D models in Fusion 360. 64 CAD tools including sketches, extrudes, fillets, and JIS standard parts.
 - [molanojustin/smithsonian-mcp](https://github.com/molanojustin/smithsonian-mcp) 🐍 ☁️ - MCP server that provides AI assistants with access to the Smithsonian Institution's Open Access collections.
+- [october-dev/october-mcp](https://github.com/october-dev/october-mcp) 📇 ☁️ - 1000+ curated design system themes for AI-generated UI. Returns prompt-ready markdown with color palettes, typography, Tailwind classes, animations, and bold design rules.
 - [OctoEverywhere/mcp](https://github.com/OctoEverywhere/mcp) #️⃣ ☁️ - A 3D printer MCP server that allows for getting live printer state, webcam snapshots, and printer control.
 - [omni-mcp/isaac-sim-mcp](https://github.com/omni-mcp/isaac-sim-mcp) 📇 ☁️ - A MCP Server and an extension enables natural language control of NVIDIA Isaac Sim, Lab, OpenUSD and etc.
 - [PatrickPalmer/MayaMCP](https://github.com/PatrickPalmer/MayaMCP) 🐍 🏠 - MCP server for Autodesk Maya
