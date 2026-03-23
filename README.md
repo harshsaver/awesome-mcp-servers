@@ -2045,6 +2045,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [nanana-app/mcp-server-nano-banana](https://github.com/nanana-app/mcp-server-nano-banana) 🐍 🏠 🍎 🪟 🐧 - AI image generation using Google Gemini's nano banana model.
 - [nguyenvanduocit/all-in-one-model-context-protocol](https://github.com/nguyenvanduocit/all-in-one-model-context-protocol) 🏎️ 🏠 - Some useful tools for developer, almost everything an engineer need: confluence, Jira, Youtube, run script, knowledge base RAG, fetch URL, Manage youtube channel, emails, calendar, gitlab
 - [NON906/omniparser-autogui-mcp](https://github.com/NON906/omniparser-autogui-mcp) - 🐍 Automatic operation of on-screen GUI.
+- [October Themes](https://github.com/october-dev/october-mcp) 🟢 - 1000+ curated design system themes. Makes AI-generated UI polished instead of generic.
 - [offorte/offorte-mcp-server](https://github.com/offorte/offorte-mcp-server) 🎖️ 📇 ☁️ 🍎 🪟 🐧 - The Offorte Proposal Software MCP server enables creation and sending of business proposals.
 - [olalonde/mcp-human](https://github.com/olalonde/mcp-human) 📇 ☁️ - When your LLM needs human assistance (through AWS Mechanical Turk)
 - [olgasafonova/productplan-mcp-server](https://github.com/olgasafonova/productplan-mcp-server) 🏎️ ☁️ - Query ProductPlan roadmaps. Access OKRs, ideas, launches, and timeline data.
